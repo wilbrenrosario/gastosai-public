@@ -77,11 +77,11 @@ Aplicación móvil de finanzas personales para usuarios dominicanos. Sincroniza 
 `1.0.0` — iOS y Android
 
 ## ScreenShoots
-<img width="300" height="700" alt="WhatsApp Image 2026-06-22 at 12 08 49" src="https://github.com/user-attachments/assets/2e3d8df9-5858-46f9-9efc-f0c672ef40be" />
+<img width="250" height="600" alt="WhatsApp Image 2026-06-22 at 12 08 49" src="https://github.com/user-attachments/assets/2e3d8df9-5858-46f9-9efc-f0c672ef40be" />
 
-<img width="300" height="700" alt="WhatsApp Image 2026-06-22 at 12 08 49 (1)" src="https://github.com/user-attachments/assets/94e9c412-daf2-49a2-88b2-1c7cd501fea6" />
+<img width="250" height="600" alt="WhatsApp Image 2026-06-22 at 12 08 49 (1)" src="https://github.com/user-attachments/assets/94e9c412-daf2-49a2-88b2-1c7cd501fea6" />
 
-<img width="300" height="700" alt="WhatsApp Image 2026-06-22 at 12 08 49 (2)" src="https://github.com/user-attachments/assets/47534df9-1c34-49eb-8d45-e7a46c0080d9" />
+<img width="250" height="600" alt="WhatsApp Image 2026-06-22 at 12 08 49 (2)" src="https://github.com/user-attachments/assets/47534df9-1c34-49eb-8d45-e7a46c0080d9" />
 
 
 
